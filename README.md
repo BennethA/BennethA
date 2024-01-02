@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BennethA
+- 👋 Hi, I’m @BenAdd
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on projects
