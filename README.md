@@ -1,16 +1,45 @@
 ## Hi there 👋
 
-<!--
-**BennethA/BennethA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*I'm Benneth Addo!*
 
-Here are some ideas to get you started:
+*About Me*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a self taught frontend developer from Accra, Ghana, passionate about tech and web development. I'm self-taught and eager to learn and develop.
+
+*Contact*
+
+- Email: addobenneth6@gmail.com
+- WhatsApp : https://wa.me/0508529031
+- Twitter(X) : @dev_benneth
+- GitHub: @BennethA
+- Location: Accra, Ghana
+
+*Tech Stack*
+
+- Programming languages: HTML, CSS, JavaScript
+- Frameworks/Libraries: React Js, Tailwind CSS
+- Skills: Responsive design, Dynamic Web Pages
+
+*Goals & Interests*
+
+- Website development
+- Gaining enough knowledge about what I plan to become
+- Exploring tech innovations
+- Acquiring a job
+
+*Hobbies*
+
+- Coding
+- Learning
+- Exercising 
+- Gaming
+
+*Learning Resources*
+
+- Video tutorials
+- Blogs
+
+*Let's Connect!*
+
+Feel free to explore my repositories, fork, and contribute. I'm open to collaborations and learning opportunities.
+
