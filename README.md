@@ -9,8 +9,8 @@ I'm a self taught frontend developer from Accra, Ghana, passionate about tech an
 *Contact*
 
 - Email: addobenneth6@gmail.com
-- WhatsApp : https://wa.me/0508529031
-- Twitter(X) : @dev_benneth
+- WhatsApp : https://wa.me/0539540191
+- Twitter(X) : @nethroi
 - GitHub: @BennethA
 - Location: Accra, Ghana
 
